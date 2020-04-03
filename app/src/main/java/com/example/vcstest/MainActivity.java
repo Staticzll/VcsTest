@@ -11,6 +11,19 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
     }
+
+
+    private void test01() {
+    }
+
+    private void test02() {
+    }
+
+    private void test03() {
+    }
+
+
 
 }
